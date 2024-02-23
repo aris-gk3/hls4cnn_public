@@ -1,4 +1,4 @@
-// Edit no.1
+// Edit no.2
 #include "header.h"
 #include <iostream>
 
